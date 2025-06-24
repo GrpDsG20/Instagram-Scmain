@@ -1,5 +1,10 @@
 Dentro del árhcivo .env remplza los valores solitados
 
+$ # x-ig-app-id
+INSTAGRAM_APP_ID=
+# Cookie
+INSTAGRAM_COOKIE=''
+
 
 ![Image](https://github.com/user-attachments/assets/309616b4-03c9-44ba-ade9-18b039c182ac)
 
